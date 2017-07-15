@@ -1,7 +1,7 @@
 
 Johnny-Five Adapter for Nefry 
 
-## install
+## Install
 
 ```
 npm i --save johnny-five nefry-io
