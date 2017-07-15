@@ -1,0 +1,16 @@
+{
+  "name": "nefry-io",
+  "version": "0.0.3",
+  "description": "Johnny-Five Adapter for Nefry.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Firmata","Nefry","Johnny-Five"],
+  "author": "n0bisuke",
+  "license": "ISC",
+  "dependencies": {
+    "etherport-client": "^0.1.3",
+    "firmata": "^0.17.0"
+  }
+}
