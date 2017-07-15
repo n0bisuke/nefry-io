@@ -6,7 +6,7 @@ const Firmata = require("firmata");
 class Nefry {
     constructor(host, port=3030){
         return new Firmata(new EtherPortClient({
-            host: 'host',//あなたのIPアドレスを入力
+            host: host,
             port: port
         }));
     }
